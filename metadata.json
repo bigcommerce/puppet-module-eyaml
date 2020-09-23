@@ -1,6 +1,6 @@
 {
   "name": "ghoneycutt-eyaml",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "ghoneycutt",
   "summary": "Manage hiera-eyaml",
   "license": "Apache-2.0",
@@ -9,6 +9,6 @@
   "issues_url": "https://github.com/ghoneycutt/puppet-module-eyaml/issues",
   "description": "Manage hiera-eyaml",
   "dependencies": [
-    {"name":"puppetlabs/stdlib","version_requirement":">= 4.6.0 < 5.0.0"}
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.6.0 < 6.0.0"}
   ]
 }

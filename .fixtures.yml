@@ -1,7 +1,5 @@
 fixtures:
   repositories:
-    stdlib:
-      repo: 'https://github.com/puppetlabs/puppetlabs-stdlib.git'
-      ref: '4.6.0'
+    stdlib: 'https://github.com/puppetlabs/puppetlabs-stdlib.git'
   symlinks:
     eyaml: "#{source_dir}"
